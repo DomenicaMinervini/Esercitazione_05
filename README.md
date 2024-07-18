@@ -1,4 +1,4 @@
-ESERCITAZIONE 05: RAGGIO 1S E 2P.
+ESERCITAZIONE 05: RAGGIO 1S E 2P
 
 Per tutte le cartelle Esercizio_05 valgono le seguenti istruzioni per:
 
